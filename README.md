@@ -1,4 +1,4 @@
-<![CDATA[# 🚀 Cloud Resource Optimization using Deep Reinforcement Learning
+# 🚀 Cloud Resource Optimization using Deep Reinforcement Learning
 
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
 [![Stable-Baselines3](https://img.shields.io/badge/RL-Stable--Baselines3-green.svg)](https://stable-baselines3.readthedocs.io/)
@@ -410,4 +410,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 <p align="center">
   Made with ❤️ by <a href="https://github.com/sheel-todkar">Sheel Todkar</a>
 </p>
-]]>
