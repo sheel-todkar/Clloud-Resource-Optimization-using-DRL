@@ -401,6 +401,27 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
+## 👥 Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sheel-todkar">
+        <img src="https://github.com/sheel-todkar.png" width="100px;" alt="Sheel Todkar"/><br />
+        <sub><b>Sheel Todkar</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KrishVora2004">
+        <img src="https://github.com/KrishVora2004.png" width="100px;" alt="Krish Vora"/><br />
+        <sub><b>Krish Vora</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
@@ -408,5 +429,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/sheel-todkar">Sheel Todkar</a>
+  Made with ❤️ by <a href="https://github.com/sheel-todkar">Sheel Todkar</a> & <a href="https://github.com/KrishVora2004">Krish Vora</a>
 </p>
